@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi, I'm **Sarthak Singh**
 
-<!--
-**sarthaksingh17/sarthaksingh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/sarthak-singh-76104a289/)
+[![Email](https://img.shields.io/badge/email-red?logo=gmail)](mailto:sarthak202323@email.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthaksingh17&show_icons=true&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthaksingh17&layout=compact&theme=github_dark&hide_border=true" height="160" />
+</p>
+
+---
+
+- 💡I like automation and building stuff that actually works
+- 🤖Currently deep into agentic AI and multi-agent systems
+- 🌱Learning tools and frameworks to make real automations possible
+- 🤝Open to collaborating on AI / automation projects
+- 📬Reach me at sarthak202323@email.com
