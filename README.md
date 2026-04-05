@@ -12,6 +12,7 @@
 
 ---
 
+- 🎓 Student at Bennett university , Btech CS 3rd year
 - 💡 I like automation and building stuff that actually works
 - 🤖 Currently deep into agentic AI and multi-agent systems
 - 🌱 Learning tools and frameworks to make real automations possible
