@@ -1,4 +1,4 @@
-👋 Hi, I'm **Sarthak Singh**
+# 👋 Hi, I'm **Sarthak Singh**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/sarthak-singh-76104a289/)
 [![Email](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:sarthak202323@email.com)
