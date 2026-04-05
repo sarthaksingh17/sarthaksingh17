@@ -1,7 +1,7 @@
 👋 Hi, I'm **Sarthak Singh**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/sarthak-singh-76104a289/)
-[![Email](https://img.shields.io/badge/email-red?logo=gmail)](mailto:sarthak202323@email.com)
+[![Email](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:sarthak202323@email.com)
 
 ---
 
@@ -12,8 +12,8 @@
 
 ---
 
-- 💡I like automation and building stuff that actually works
-- 🤖Currently deep into agentic AI and multi-agent systems
-- 🌱Learning tools and frameworks to make real automations possible
-- 🤝Open to collaborating on AI / automation projects
-- 📬Reach me at sarthak202323@email.com
+- 💡 I like automation and building stuff that actually works
+- 🤖 Currently deep into agentic AI and multi-agent systems
+- 🌱 Learning tools and frameworks to make real automations possible
+- 🤝 Open to collaborating on AI / automation projects
+- 📬 Reach me at sarthak202323@email.com
