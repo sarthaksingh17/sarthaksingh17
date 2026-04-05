@@ -1,17 +1,18 @@
-# 👋 Hi, I'm **Sarthak Singh**
+👋 Hi, I'm **Sarthak Singh**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/sarthak-singh-76104a289/)
 [![Email](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:sarthak202323@email.com)
-
+![Repos](https://badges.pufler.dev/repos/sarthaksingh17)
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-blue-six-29.vercel.app/api?username=sarthaksingh17&show_icons=true&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats-blue-six-29.vercel.app/api?username=sarthaksingh17&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" />
   <img src="https://github-readme-stats-blue-six-29.vercel.app/api/top-langs/?username=sarthaksingh17&layout=compact&theme=github_dark&hide_border=true" height="160" />
 </p>
+
 ---
 
-- 🎓 Student at Bennett university , Btech CS 3rd year
+- 🎓 Student at Bennett University, BTech CS 3rd year
 - 💡 I like automation and building stuff that actually works
 - 🤖 Currently deep into agentic AI and multi-agent systems
 - 🌱 Learning tools and frameworks to make real automations possible
