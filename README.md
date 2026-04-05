@@ -6,8 +6,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-416s8bzb3-sarthaksingh17s-projects.vercel.app/api?username=sarthaksingh17&show_icons=true&theme=github_dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats-416s8bzb3-sarthaksingh17s-projects.vercel.app/api/top-langs/?username=sarthaksingh17&layout=compact&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats-blue-six-29.vercel.app/api?username=sarthaksingh17&show_icons=true&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats-blue-six-29.vercel.app/api/top-langs/?username=sarthaksingh17&layout=compact&theme=github_dark&hide_border=true" height="160" />
 </p>
 ---
 
