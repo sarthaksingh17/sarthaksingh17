@@ -17,4 +17,4 @@
 - 🤖 Currently deep into agentic AI and multi-agent systems
 - 🌱 Learning tools and frameworks to make real automations possible
 - 🤝 Open to collaborating on AI / automation projects
-- 📬 Reach me at sarthak202323@email.com
+- 📬 Reach me at sarthak202323@email.com 
