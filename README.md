@@ -6,6 +6,7 @@
 
 <br/><br/>
 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-A78BFA?style=for-the-badge&labelColor=0d1117)](https://portfolio-website-indol-eight-21.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-singh-76104a289/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarthak202323@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/sarthaksingh17?label=Follow&style=for-the-badge&color=6E40C9&logo=github)](https://github.com/sarthaksingh17)
@@ -63,6 +64,7 @@ class SarthakSingh:
 ![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=flat-square&logoColor=black&labelColor=0d1117)
 ![RAG](https://img.shields.io/badge/RAG%20Pipelines-A78BFA?style=flat-square&logoColor=white&labelColor=0d1117)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white&labelColor=0d1117)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logoColor=white&labelColor=0d1117)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD700?style=flat-square&logoColor=black&labelColor=0d1117)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=0d1117)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00D4AA?style=flat-square&logoColor=white&labelColor=0d1117)
@@ -120,11 +122,12 @@ class SarthakSingh:
 
 <img width="42%" src="https://github-readme-stats-blue-six-29.vercel.app/api/top-langs/?username=sarthaksingh17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
 
-</div>
+<br/><br/>
+
+
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 
 ## 🎓 Certifications
